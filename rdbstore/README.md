@@ -1,7 +1,5 @@
 # 简介
 
-字节跳动鸿蒙生态数据库组件，支撑字节系鸿蒙应用数据库相关能力。
-
 鸿蒙平台数据库能力以 relationalStore 相关接口提供给开发者，rdbStore
 以DTO对象形式来进行数据库操作，封装数据库创建和自动升级、数据库谓词构建、查询结果反序列化、品质调优等能力，实现简单高效地进行数据库操作。
 
@@ -9,13 +7,16 @@
 
 仓库地址：https://github.com/bytedance/rdbStore
 
+开发者文档：https://bytedance.larkoffice.com/docx/DpWgdGf5toJK7PxLSwdcC8r7nZg
+
 # 接入
 
  ```
 ohpm install rdbstore
  ```
 
-更多技术支持: 邮件 gongshijie.gongsj@bytedance.com
+更多技术支持 -> 社区：https://qm.qq.com/q/AQDkBz1MOs
+
 
 # 能力简介
 
